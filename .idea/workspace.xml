@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3176f5aa-7cf7-4dd0-9fba-70b3ca51b1b6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,5 +66,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="696" y="324" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580179214884">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="696" y="324" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1580179214884" />
   </component>
 </project>
